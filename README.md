@@ -1,5 +1,5 @@
 # 0. 说明
-上传了 targer 目录（编译文件），方便查看添加注解后生成的文件（idea反编译）
+上传了 targer 目录（编译文件），方便查看添加注解后生成文件的代码（idea反编译）
 # 1. @Getter/@Setter
 ## 1.1 可用于成员变量上
 ![](README.assets/e12c18a3.png)
