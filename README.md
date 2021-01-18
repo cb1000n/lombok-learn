@@ -2,9 +2,9 @@
 上传了 targer 目录（编译文件），方便查看添加注解后生成文件的代码（idea反编译）
 # 1. @Getter/@Setter
 ## 1.1 可用于成员变量上
-![](README.assets/e12c18a3.png)
+![12](README.assets/e12c18a3.png)
 ### 1.1.1 可选择生成方法的修饰符
-![](README.assets/47ffb355.png)
+![32](README.assets/47ffb355.png)
 ![](README.assets/572f3f29.png)
 
 ## 1.2 可用于类上
